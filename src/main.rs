@@ -21,7 +21,7 @@ use {
         Reedline, ReedlineEvent, ReedlineMenu, Signal, Vi,
     },
     std::{
-        io::{stdout, Write},
+        io::stdout,
         time::Duration,
     },
 };
